@@ -26,7 +26,7 @@ Use ".Rprofile" when messages are garbled on windows command prompt.
 
 1. Put ".Rprofile" into R home directory
 
-    ie) C:\Users\[username]\Documents
+    ex) C:\Users\[username]\Documents
 
     You can find R home directory using R command below:
 
