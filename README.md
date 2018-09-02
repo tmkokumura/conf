@@ -19,3 +19,14 @@ Configuration file for vim to write  python comfortably.
 
     $ cd ~/.vim/bundle/  
     $ git clone --recursive https://github.com/davidhalter/jedi-vim.git
+    
+## .Rprofile
+Configuration file for Rscript.
+
+1. Put ".Rprofile" into R home directory
+
+    ie) C:\Users\[username]\Documents
+
+    You can find R home directory using R command below:
+
+    > path.expand("~")
