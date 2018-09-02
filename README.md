@@ -22,6 +22,7 @@ Configuration file for vim to write  python comfortably.
     
 ## .Rprofile
 Configuration file for Rscript.
+Use ".Rprofile" when messages are garbled on windows command prompt.
 
 1. Put ".Rprofile" into R home directory
 
